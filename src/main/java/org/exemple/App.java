@@ -1,4 +1,4 @@
-package com.skillbrain;
+package org.exemple;
 
 /**
  * Hello world!
